@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Example: Open Google",
+    "url": "https://www.google.com",
+    "delayAfter": 3000
+  },
+  {
+    "name": "Example: Telegram Bot",
+    "url": "https://t.me/YourBotHere",
+    "goal": "Open the bot and complete all available tasks",
+    "delayAfter": 5000
+  }
+]
