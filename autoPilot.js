@@ -4,7 +4,7 @@
  * Handles: websites, Telegram Mini Apps, login detection, task completion
  */
 
-const { MiniAppEngine } = require('./miniAppEngine');
+const { MiniAppEngine } = require('./miniAppEngine.js');
 
 class AutoPilot {
   constructor(state, aiManager, browserManager, telegramBot, accountManager) {
